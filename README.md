@@ -96,4 +96,4 @@ This project is licensed under the **MIT License** — you’re free to use, mod
 
 ## 👨‍💻 Author
 **Ali Amir**  
-📧 a476@umbc.edu
+📧 codepirate2028@gmail.com
